@@ -1,0 +1,97 @@
+[2014-01-06 22:40:17(591)]	---------------------Init Service--------------------------
+[2014-01-06 22:40:17(592)]	Current File Version: V4.9, Build Time:Jan  2 2014 23:02:53
+[2014-01-06 22:40:17(614)]	Start Server At Demo Mode!
+[2014-01-06 22:40:17(617)]	Load libbrservernetlayer.so success!(V4.9, Build time:Jan  2 2014 23:03:02)
+[2014-01-06 22:40:17(618)]	Start TCP Server Successed(port=8906)!
+[2014-01-06 22:40:17(619)]	Start UDP Server Successed(port=8907)!
+[2014-01-06 22:40:17(621)]	AnyChat IPC Filter Plus Init, Build Time:Jan  2 2014 23:03:05
+[2014-01-06 22:40:17(621)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V4.9
+[2014-01-06 22:40:23(738)]	---------------------Init Service--------------------------
+[2014-01-06 22:40:23(740)]	Current File Version: V4.9, Build Time:Jan  2 2014 23:02:53
+[2014-01-06 22:40:23(742)]	Start Server At Demo Mode!
+[2014-01-06 22:40:23(743)]	Load libbrservernetlayer.so success!(V4.9, Build time:Jan  2 2014 23:03:02)
+[2014-01-06 22:40:23(743)]	Start TCP Server Successed(port=8906)!
+[2014-01-06 22:40:23(744)]	Start UDP Server Successed(port=8907)!
+[2014-01-06 22:40:23(744)]	AnyChat IPC Filter Plus Init, Build Time:Jan  2 2014 23:03:05
+[2014-01-06 22:40:23(745)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V4.9
+[2014-01-06 22:40:27(353)]	---------------------Init Service--------------------------
+[2014-01-06 22:40:27(355)]	Current File Version: V4.9, Build Time:Jan  2 2014 23:02:53
+[2014-01-06 22:40:27(357)]	Start Server At Demo Mode!
+[2014-01-06 22:40:27(360)]	Load libbrservernetlayer.so success!(V4.9, Build time:Jan  2 2014 23:03:02)
+[2014-01-06 22:40:27(360)]	Start TCP Server Successed(port=8906)!
+[2014-01-06 22:40:27(361)]	Start UDP Server Successed(port=8907)!
+[2014-01-06 22:40:27(362)]	AnyChat IPC Filter Plus Init, Build Time:Jan  2 2014 23:03:05
+[2014-01-06 22:40:27(363)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V4.9
+[2014-01-06 22:40:44(299)]	---------------------Init Service--------------------------
+[2014-01-06 22:40:44(301)]	Current File Version: V4.9, Build Time:Jan  2 2014 23:02:53
+[2014-01-06 22:40:44(303)]	Start Server At Demo Mode!
+[2014-01-06 22:40:44(307)]	Load libbrservernetlayer.so success!(V4.9, Build time:Jan  2 2014 23:03:02)
+[2014-01-06 22:40:44(307)]	Start TCP Server Successed(port=8906)!
+[2014-01-06 22:40:44(308)]	Start UDP Server Successed(port=8907)!
+[2014-01-06 22:40:44(310)]	AnyChat IPC Filter Plus Init, Build Time:Jan  2 2014 23:03:05
+[2014-01-06 22:40:44(310)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V4.9
+[2014-01-06 22:41:55(991)]	Successful communicate with the business server!
+[2014-01-06 22:42:26(194)]	Fails to communicate with the business server!
+[2014-01-06 22:42:32(724)]	Successful communicate with the business server!
+[2014-01-06 22:42:48(463)]	Fails to communicate with the business server!
+[2014-01-06 22:43:00(586)]	Successful communicate with the business server!
+[2014-01-07 09:24:46(027)]	Fails to communicate with the business server!
+[2014-01-07 10:18:11(256)]	---------------------Init Service--------------------------
+[2014-01-07 10:18:11(268)]	Current File Version: V4.9, Build Time:Jan  2 2014 23:02:53
+[2014-01-07 10:18:11(283)]	Start Server At Demo Mode!
+[2014-01-07 10:18:11(284)]	Load libbrservernetlayer.so success!(V4.9, Build time:Jan  2 2014 23:03:02)
+[2014-01-07 10:18:11(284)]	Start TCP Server Successed(port=8906)!
+[2014-01-07 10:18:11(285)]	Start UDP Server Successed(port=8907)!
+[2014-01-07 10:18:11(295)]	AnyChat IPC Filter Plus Init, Build Time:Jan  2 2014 23:03:05
+[2014-01-07 10:18:11(295)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V4.9
+[2014-01-07 10:21:04(335)]	AnyChatCoreServer has exited with error code:0
+[2014-01-07 14:26:07(283)]	---------------------Init Service--------------------------
+[2014-01-07 14:26:07(299)]	Current File Version: V4.9, Build Time:Jan  2 2014 23:02:53
+[2014-01-07 14:26:07(371)]	Start Server At Demo Mode!
+[2014-01-07 14:26:07(373)]	Load libbrservernetlayer.so success!(V4.9, Build time:Jan  2 2014 23:03:02)
+[2014-01-07 14:26:07(373)]	Start TCP Server Successed(port=8906)!
+[2014-01-07 14:26:07(373)]	Start UDP Server Successed(port=8907)!
+[2014-01-07 14:26:07(393)]	AnyChat IPC Filter Plus Init, Build Time:Jan  2 2014 23:03:05
+[2014-01-07 14:26:07(393)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V4.9
+[2014-01-07 19:00:07(204)]	---------------------Init Service--------------------------
+[2014-01-07 19:00:07(206)]	Current File Version: V4.9, Build Time:Jan  2 2014 23:02:53
+[2014-01-07 19:00:07(208)]	Start Server At Demo Mode!
+[2014-01-07 19:00:07(211)]	Load libbrservernetlayer.so success!(V4.9, Build time:Jan  2 2014 23:03:02)
+[2014-01-07 19:00:07(212)]	Start TCP Server Successed(port=8906)!
+[2014-01-07 19:00:07(213)]	Start UDP Server Successed(port=8907)!
+[2014-01-07 19:00:07(214)]	AnyChat IPC Filter Plus Init, Build Time:Jan  2 2014 23:03:05
+[2014-01-07 19:00:07(214)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V4.9
+[2014-01-10 20:04:56(880)]	---------------------Init Service--------------------------
+[2014-01-10 20:04:56(914)]	Current File Version: V4.9, Build Time:Jan  2 2014 23:02:53
+[2014-01-10 20:04:56(915)]	Start Server At Demo Mode!
+[2014-01-10 20:04:56(916)]	Load libbrservernetlayer.so success!(V4.9, Build time:Jan  2 2014 23:03:02)
+[2014-01-10 20:04:56(916)]	Start TCP Server Successed(port=8906)!
+[2014-01-10 20:04:56(917)]	Start UDP Server Successed(port=8907)!
+[2014-01-10 20:04:56(917)]	AnyChat IPC Filter Plus Init, Build Time:Jan  2 2014 23:03:05
+[2014-01-10 20:04:56(918)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V4.9
+[2014-01-10 25:08:43(252)]	---------------------Init Service--------------------------
+[2014-01-10 25:08:43(264)]	Current File Version: V4.9, Build Time:Jan  2 2014 23:02:53
+[2014-01-10 25:08:43(272)]	Start Server At Demo Mode!
+[2014-01-10 25:08:43(273)]	Load libbrservernetlayer.so success!(V4.9, Build time:Jan  2 2014 23:03:02)
+[2014-01-10 25:08:43(273)]	Start TCP Server Successed(port=8906)!
+[2014-01-10 25:08:43(273)]	Start UDP Server Successed(port=8907)!
+[2014-01-10 25:08:43(276)]	AnyChat IPC Filter Plus Init, Build Time:Jan  2 2014 23:03:05
+[2014-01-10 25:08:43(276)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V4.9
+[2014-01-10 25:08:44(322)]	Successful communicate with the business server!
+[2014-01-10 25:11:24(628)]	---------------------Init Service--------------------------
+[2014-01-10 25:11:24(629)]	Current File Version: V4.9, Build Time:Jan  2 2014 23:02:53
+[2014-01-10 25:11:24(648)]	Start Server At Demo Mode!
+[2014-01-10 25:11:24(650)]	Load libbrservernetlayer.so success!(V4.9, Build time:Jan  2 2014 23:03:02)
+[2014-01-10 25:11:24(650)]	Start TCP Server Successed(port=8906)!
+[2014-01-10 25:11:24(651)]	Start UDP Server Successed(port=8907)!
+[2014-01-10 25:11:24(653)]	AnyChat IPC Filter Plus Init, Build Time:Jan  2 2014 23:03:05
+[2014-01-10 25:11:24(654)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V4.9
+[2014-01-11 09:24:10(546)]	---------------------Init Service--------------------------
+[2014-01-11 09:24:10(549)]	Current File Version: V4.9, Build Time:Jan  2 2014 23:02:53
+[2014-01-11 09:24:10(582)]	Start Server At Demo Mode!
+[2014-01-11 09:24:10(584)]	Load libbrservernetlayer.so success!(V4.9, Build time:Jan  2 2014 23:03:02)
+[2014-01-11 09:24:10(584)]	Start TCP Server Successed(port=8906)!
+[2014-01-11 09:24:10(585)]	Start UDP Server Successed(port=8907)!
+[2014-01-11 09:24:10(617)]	AnyChat IPC Filter Plus Init, Build Time:Jan  2 2014 23:03:05
+[2014-01-11 09:24:10(617)]	Load SDK Filter Plus:libipcfilterplus.so Success, ver:SDK Filter Plus (IPC), for Linux V4.9
+[2014-01-11 09:24:20(596)]	Successful communicate with the business server!

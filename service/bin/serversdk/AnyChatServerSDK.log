@@ -1,0 +1,33 @@
+[2014-01-06 22:41:54(947)]	AnyChat Server SDK Init,V4.9, Build Time:Jan  2 2014 23:03:03
+[2014-01-06 22:41:54(947)]	Invoke	BRAS_InitSDK(0x0)
+[2014-01-06 22:41:55(471)]	Success connected to anychatcoreserver...
+[2014-01-06 22:42:32(199)]	AnyChat Server SDK Init,V4.9, Build Time:Jan  2 2014 23:03:03
+[2014-01-06 22:42:32(200)]	Invoke	BRAS_InitSDK(0x0)
+[2014-01-06 22:42:32(202)]	Success connected to anychatcoreserver...
+[2014-01-06 22:43:00(063)]	AnyChat Server SDK Init,V4.9, Build Time:Jan  2 2014 23:03:03
+[2014-01-06 22:43:00(063)]	Invoke	BRAS_InitSDK(0x0)
+[2014-01-06 22:43:00(065)]	Success connected to anychatcoreserver...
+[2014-01-07 10:07:52(792)]	AnyChat Server SDK Init,V4.9, Build Time:Jan  2 2014 23:03:03
+[2014-01-07 10:07:52(823)]	Invoke	BRAS_InitSDK(0x0)
+[2014-01-07 10:09:50(749)]	AnyChat Server SDK Init,V4.9, Build Time:Jan  2 2014 23:03:03
+[2014-01-07 10:09:50(750)]	Invoke	BRAS_InitSDK(0x0)
+[2014-01-07 10:10:16(080)]	AnyChat Server SDK Init,V4.9, Build Time:Jan  2 2014 23:03:03
+[2014-01-07 10:10:16(080)]	Invoke	BRAS_InitSDK(0x0)
+[2014-01-07 10:10:29(262)]	Invoke	BRAS_Release
+
+[2014-01-07 10:10:50(248)]	AnyChat Server SDK Init,V4.9, Build Time:Jan  2 2014 23:03:03
+[2014-01-07 10:10:50(248)]	Invoke	BRAS_InitSDK(0x0)
+[2014-01-07 10:11:02(235)]	AnyChat Server SDK Init,V4.9, Build Time:Jan  2 2014 23:03:03
+[2014-01-07 10:11:02(235)]	Invoke	BRAS_InitSDK(0x0)
+[2014-01-07 10:11:08(136)]	AnyChat Server SDK Init,V4.9, Build Time:Jan  2 2014 23:03:03
+[2014-01-07 10:11:08(136)]	Invoke	BRAS_InitSDK(0x0)
+[2014-01-07 10:12:01(217)]	Invoke	BRAS_Release
+
+[2014-01-07 10:12:10(859)]	AnyChat Server SDK Init,V4.9, Build Time:Jan  2 2014 23:03:03
+[2014-01-07 10:12:10(859)]	Invoke	BRAS_InitSDK(0x0)
+[2014-01-07 10:12:20(402)]	AnyChat Server SDK Init,V4.9, Build Time:Jan  2 2014 23:03:03
+[2014-01-07 10:12:20(402)]	Invoke	BRAS_InitSDK(0x0)
+[2014-01-07 10:14:15(619)]	Invoke	BRAS_Release
+
+[2014-01-07 10:14:19(682)]	AnyChat Server SDK Init,V4.9, Build Time:Jan  2 2014 23:03:03
+[2014-01-07 10:14:19(683)]	Invoke	BRAS_InitSDK(0x0)

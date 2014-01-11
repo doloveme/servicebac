@@ -1,0 +1,64 @@
+Jan 11, 2014 1:02:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jan 11, 2014 1:02:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jan 11, 2014 1:02:41 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@529c176c')
+Jan 11, 2014 1:02:44 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'AnyChat4SpringMVC'
+Jan 11, 2014 1:02:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'AnyChat4SpringMVC'
+Jan 11, 2014 1:02:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jan 11, 2014 1:02:46 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jan 11, 2014 1:02:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jan 11, 2014 1:02:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jan 11, 2014 1:02:53 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@788390b0')
+Jan 11, 2014 1:02:56 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'AnyChat4SpringMVC'
+Jan 11, 2014 1:02:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'AnyChat4SpringMVC'
+Jan 11, 2014 1:02:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jan 11, 2014 1:02:58 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jan 11, 2014 1:03:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jan 11, 2014 1:03:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jan 11, 2014 1:03:36 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@693e4a5a')
+Jan 11, 2014 1:03:37 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'AnyChat4SpringMVC'
+Jan 11, 2014 1:11:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'AnyChat4SpringMVC'
+Jan 11, 2014 1:11:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jan 11, 2014 1:11:00 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jan 11, 2014 1:14:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jan 11, 2014 1:14:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jan 11, 2014 1:14:23 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@60d3ade7')
+Jan 11, 2014 1:14:25 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'AnyChat4SpringMVC'
+Jan 11, 2014 9:23:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: Destroying Spring FrameworkServlet 'AnyChat4SpringMVC'
+Jan 11, 2014 9:23:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextDestroyed()
+Jan 11, 2014 9:23:45 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextDestroyed()
+Jan 11, 2014 9:24:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: contextInitialized()
+Jan 11, 2014 9:24:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: SessionListener: contextInitialized()
+Jan 11, 2014 9:24:16 AM org.apache.catalina.core.ApplicationContext log
+INFO: ContextListener: attributeAdded('org.apache.jasper.compiler.TldLocationsCache', 'org.apache.jasper.compiler.TldLocationsCache@1664a9b')
+Jan 11, 2014 9:24:18 AM org.apache.catalina.core.ApplicationContext log
+INFO: Initializing Spring FrameworkServlet 'AnyChat4SpringMVC'
